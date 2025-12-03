@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏛️ Musée d'Art Virtuel
 
 Projet Git - Groupe de 6 étudiants
@@ -13,3 +14,6 @@ Projet Git - Groupe de 6 étudiants
 ## Installation
 1. Frontend : Ouvrir frontend/index.html
 2. Backend : cd backend && npm install && npm start
+=======
+# virtual-art-museum
+>>>>>>> 950198bd67c83b0f6c4232b009564776802aeee9
